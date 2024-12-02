@@ -11,7 +11,7 @@
    <img src="./img-readme/readme_001.png" alt="Captura de Tela 1" width="300" style="margin-right: 10px; border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img-readme/readme_002.png) -->
-   <img src="./img-readme/readme_002.png" alt="Captura de Tela 2" width="300" style="margin-right: 10px; border-radius: 10px;">
+   <img src="./img-readme/readme_008.png" alt="Captura de Tela 2" width="300" style="margin-right: 10px; border-radius: 10px;">
    
    <!-- ![Captura de Tela](./img-readme/readme_003.png) -->
    <img src="./img-readme/readme_003.png" alt="Captura de Tela 3" width="300" style="margin-right: 10px; border-radius: 10px;">
@@ -29,7 +29,7 @@
    <img src="./img-readme/readme_007.png" alt="Captura de Tela 7" width="300" style="margin-right: 10px; border-radius: 10px;">
 
    <!-- ![Captura de Tela](./img-readme/readme_008.png) -->
-   <img src="./img-readme/readme_008.png" alt="Captura de Tela 8" width="300" style="margin-right: 10px; border-radius: 10px;">
+   <img src="./img-readme/readme_002.png" alt="Captura de Tela 8" width="300" style="margin-right: 10px; border-radius: 10px;">
 </div>
 
 ## Links de Referência:
