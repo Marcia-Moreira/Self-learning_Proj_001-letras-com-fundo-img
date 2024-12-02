@@ -19,5 +19,9 @@ Site Imagens: https://pixabay.com/pt/images/search/fundo%20floral/
 - Projeto para aprender a usar imagens em arquivo para decorar textos.
 - Combinado estudo para testar os recursos de centralização css.
 
+# Observações:
+
+Esse projeto já está com opções de uploading de algumas imagens que já estão comentadas no css, logo, caso tenha interesse, poderá ir "descomentando" as imagens para trocar para uma que mais lhe agrade visualmente.
+
 Marcia Moreira
 02/12/2022.
